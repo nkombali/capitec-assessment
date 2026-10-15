@@ -27,11 +27,11 @@ A mobile end-to-end (E2E) automation framework built with \[WebdriverIO](https:/
 
  
 
-* **Test Runner: ** WebdriverIO (`@wdio/cli`)
+* **Test Runner:** WebdriverIO (`@wdio/cli`)
 
-* **Language: ** TypeScript (`ts-node`, `typescript`)
+* **Language:** TypeScript (`ts-node`, `typescript`)
 
-* **Mobile Driver: ** Appium (with `@wdio/appium-service` and Android driver)
+* **Mobile Driver:** Appium (with `@wdio/appium-service` and Android driver)
 
 * **HTTP Client:** Axios (for pre-test seeding, mock data, or API verification)
 
