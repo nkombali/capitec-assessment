@@ -163,7 +163,8 @@ npm run allure
 1. Sign Up and the Login
 2. Login with invalid credentials
 3. Form interactions
-4. Swipe Horizontally and Vertically
+4. Swipe Horizontally
+5. Bonus: Scroll down to reveal WDIO Logo
 
 
 
