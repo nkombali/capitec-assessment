@@ -1,6 +1,6 @@
 # Capitec Assessment - Mobile and API Automation Framework
 
-A mobile end-to-end (E2E) automation framework built with \[WebdriverIO](https://webdriver.io), \[TypeScript](https://typescriptlang.org), \[Appium](https://appium.io), and \[Axios](https://axios-http.com) for API helper/setup routines.
+A mobile end-to-end (E2E) automation framework built with \[WebdriverIO](https://webdriver.io), \[TypeScript](https://typescriptlang.org), \[Appium](https://appium.io), and \[Axios](https://axios-http.com) for API tests.
 
  ---
 
